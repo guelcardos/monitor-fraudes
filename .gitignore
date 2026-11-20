@@ -1,0 +1,13 @@
+# Arquivos intermediários (a base do app é o .csv.gz, que fica no repo)
+dados/transacoes.csv
+dados/clientes.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
