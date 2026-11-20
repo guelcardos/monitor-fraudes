@@ -1,5 +1,7 @@
 # 🔍 Monitor de Fraudes — Aplicativo Web (Streamlit)
 
+**🚀 App no ar:** [monitor-fraudes-guelcardos.streamlit.app](https://monitor-fraudes-guelcardos.streamlit.app)
+
 Aplicativo web interativo para **monitoramento de transações suspeitas**, construído em Streamlit sobre o detector de anomalias do projeto [deteccao-anomalias-financeiras](https://github.com/guelcardos/deteccao-anomalias-financeiras).
 
 > ⚠️ Todos os dados são **100% fictícios** (118 mil transações sintéticas de um banco fictício). Nenhum dado real foi utilizado.
